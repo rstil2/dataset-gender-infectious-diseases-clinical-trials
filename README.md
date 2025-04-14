@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A reproducible workflow for analyzing female participation rates in clinical trials for COVID-19, Ebola, and HIV.  
-**Dataset DOI:** [10.6084/m9.figshare.XXXXXXX](https://doi.org/10.6084/m9.figshare.XXXXXXX)
 
 ---
 
@@ -73,7 +72,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 If you use this dataset or code, please cite:  
 ```bibtex
-@article{stillwell_2023,  
+@article{stillwell_2025,  
   author = {Stillwell, R.C.},  
   title = {Gender Disparities in Clinical Trials: A Bayesian Analysis of Temporal Trends},  
   journal = {BMJ Public Health},  
@@ -85,5 +84,5 @@ If you use this dataset or code, please cite:
 ---
 
 ## Contact  
-For questions or support: [your.email@institution.edu](mailto:your.email@institution.edu)  
+For questions or support: [craig.stillwell@gmail.com](mailto:craig.stillwell@gmail.com)  
 Project URL: [https://github.com/yourusername/trial_gender_dataset](https://github.com/yourusername/trial_gender_dataset)
