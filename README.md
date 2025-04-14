@@ -73,12 +73,12 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 If you use this dataset or code, please cite:  
 ```bibtex
-@dataset{stillwell_2024,
-  author = {Stillwell, R.C.},
-  title = {Dataset on gender disparities in infectious disease clinical trials},
-  year = {2024},
-  publisher = {Figshare},
-  doi = {10.6084/m9.figshare.XXXXXXX}
+@article{stillwell_2023,  
+  author = {Stillwell, R.C.},  
+  title = {Gender Disparities in Clinical Trials: A Bayesian Analysis of Temporal Trends},  
+  journal = {BMJ Public Health},  
+  year = {In Review},  
+  doi = {10.XXXX/YYYYYYY}  
 }
 ```
 
