@@ -1,0 +1,11 @@
+# Save this as environment.yml in your repo root
+name: trial_analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pymc>=5.9
+  - pandas>=2.1
+  - matplotlib>=3.8
+  - xarray>=2023.7
+  - pytest
