@@ -85,4 +85,4 @@ If you use this dataset or code, please cite:
 
 ## Contact  
 For questions or support: [craig.stillwell@gmail.com](mailto:craig.stillwell@gmail.com)  
-Project URL: [https://github.com/yourusername/trial_gender_dataset](https://github.com/yourusername/trial_gender_dataset)
+Project URL: [https://github.com/rstil2/dataset-gender-infectious-diseases-clinical-trials](https://github.com/rstil2/dataset-gender-infectious-diseases-clinical-trials)
